@@ -4,3 +4,4 @@
 - 📷 To reach me on Instagram: https://www.instagram.com/patrickalvares/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrickalvares&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickalvares)
