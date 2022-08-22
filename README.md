@@ -3,4 +3,4 @@
 - 📫 To reach me on Linkedin: https://www.linkedin.com/in/patrick-alvares-b15768235/
 - 📷 To reach me on Instagram: https://www.instagram.com/patrickalvares/
 
-https://github-readme-stats.vercel.app/api?username=Patrickalvares&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrickalvares&theme=tokyonight)
