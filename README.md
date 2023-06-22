@@ -4,7 +4,7 @@
 - 📷 To reach me on Instagram: https://www.instagram.com/patrickalvares/
 
 
-![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrickalvares&show_icons=true&theme=ayu-mirage)
+
 
 
 
